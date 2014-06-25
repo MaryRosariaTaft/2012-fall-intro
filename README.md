@@ -1,9 +1,8 @@
 Homework, Fall 2012
 ==================
 
-Intro to CS
-------------------
+### Intro to CS ###
 
-**Teacher: Mr. Jaishankar**
+Teacher: Mr. Jaishankar
 
-**Languages: Racket, NetLogo**
+Languages: Racket, NetLogo
